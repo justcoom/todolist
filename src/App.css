@@ -1,0 +1,14 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+/*.app > div {*/
+/*  margin-right: 50px;*/
+/*}*/
+
+.container {
+  display: flex;
+  align-items: center;
+}
